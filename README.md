@@ -1,3 +1,3 @@
-# coursera-test
-coursera test repository
-its a markdown file in this directory
+# SCD_Lab Task 
+This is own first mini project in
+Software Construction and Development
